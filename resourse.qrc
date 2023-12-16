@@ -1,0 +1,31 @@
+<RCC>
+  <qresource prefix="icons">
+    <file>icons/light_mode.png</file>
+    <file>icons/dark_mode.png</file>
+    <file>icons/airplane_ticket_black.png</file>
+    <file>icons/airplane_ticket_white.png</file>
+    <file>icons/airplane_ticket_white_24dp.png</file>
+    <file>icons/badge_black.png</file>
+    <file>icons/badge_white.png</file>
+    <file>icons/delete_black.png</file>
+    <file>icons/delete_white.png</file>
+    <file>icons/down_black.png</file>
+    <file>icons/down_white.png</file>
+    <file>icons/edit_note_black.png</file>
+    <file>icons/edit_note_white.png</file>
+    <file>icons/flight_takeoff_black.png</file>
+    <file>icons/flight_takeoff_white.png</file>
+    <file>icons/lock_clock_black.png</file>
+    <file>icons/lock_clock_white.png</file>
+    <file>icons/person_search_black.png</file>
+    <file>icons/person_search_white.png</file>
+    <file>icons/post_add_black.png</file>
+    <file>icons/post_add_white.png</file>
+    <file>icons/search_black.png</file>
+    <file>icons/search_white.png</file>
+    <file>icons/settings_black.png</file>
+    <file>icons/settings_white.png</file>
+    <file>icons/subject_black.png</file>
+    <file>icons/subject_white.png</file>
+  </qresource>
+</RCC>
